@@ -175,13 +175,16 @@ button.btn-warning:hover {
   margin-top: 60px;
 }
 
+
 .info  {
-  margin-top: 40px;
+  margin-top: 50px;
   border-color: #fff;
   border-style: solid;
   padding: 10px;
 }
 
+
 .map {
-  margin-top: 40px
+  margin-top: 50px;
+
 }
