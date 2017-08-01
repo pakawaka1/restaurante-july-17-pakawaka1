@@ -181,10 +181,20 @@ button.btn-warning:hover {
   border-color: #fff;
   border-style: solid;
   padding: 10px;
+  margin-bottom: 40px;
 }
 
 
 .map {
   margin-top: 50px;
+  font-weight:bold;
+  margin-bottom: 0px;
+}
 
+.address {
+  margin: 0px;
+}
+
+.sitemap {
+  margin-top: 20px;
 }
