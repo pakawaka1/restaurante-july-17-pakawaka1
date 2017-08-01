@@ -179,6 +179,7 @@ button.btn-warning:hover {
   margin-top: 40px;
   border-color: #fff;
   border-style: solid;
+  padding: 10px;
 }
 
 .map {
